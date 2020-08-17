@@ -1,0 +1,35 @@
+.container {
+background-color:#e6e6e6 ;
+}
+/*.container img{
+	width: 250px;
+	height: 100px;
+}*/
+.garis{
+	width: 103%;
+	margin-left:-15px; 
+	height: 20px;
+	background-color:#fff ;
+	border: 1px solid #fff;
+	margin-top: 20px;
+}
+
+.col-md- img{
+	width:190px ;
+	height:250px ;
+}
+.tulisan{
+	margin-left:-50px;
+}
+.row img{
+	width:190px ;
+	height:250px ;
+	
+}
+.artikel{
+	margin-left:-50px;
+}
+
+.ciri{
+	margin-left:-50px;
+}
